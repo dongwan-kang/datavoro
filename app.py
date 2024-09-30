@@ -245,11 +245,11 @@ def main():
 if __name__=="__main__":
     main()
 
+# new environment python -m venv venv
 # venv/Scripts/activate
 #git config --global user.email "yoikoko@gmail.com"
 #git config --global user.name "Jude-Kang"
 # streamlit run app.py
-# git add .
 # git reset
 # git freeze > requirements.txt
 # git add .
